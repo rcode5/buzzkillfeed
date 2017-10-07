@@ -18,5 +18,7 @@ A Slackbot for Clickbait Generator written for Node.js.  It uses the node-slack-
 1. To debug, change 'warn' to 'debug'
 1. Talk to or about your bot
 
+Note: You can also now use `yarn` instead of `npm` if you prefer.
+
 Note: it appears that as the bot gets invited to channels, it will listen
 so CHANNEL_NAMES should be optional.
